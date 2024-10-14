@@ -19,6 +19,7 @@ python-multipart = "^0.0.9"
 pdf2image = "^1.17.0"
 pydantic = "^2.6.1"
 requests = "^2.31.0"
+mistralai = "^1.1.0"
 
 [tool.pyright]
 useLibraryCodeForTypes = true
